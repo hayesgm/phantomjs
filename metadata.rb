@@ -11,4 +11,3 @@ version '1.0.3'
 end
 
 depends 'build-essential'
-depends 'chocolatey'
